@@ -9,5 +9,5 @@ class Person
   end
 end
 dakota = Person.new
-Person.talk
-Person.walk
+dakota.talk
+dakota.walk
