@@ -4,9 +4,9 @@ class Person
   #   puts "Hello World!"
   # end
 
-  def walk
-    puts "The Person is walking"
-  end
+  # def walk
+  #   puts "The Person is walking"
+  # end
 end
 Dakota = Person.new
 Person.talk
